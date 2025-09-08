@@ -43,7 +43,7 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/kyung-ryun-kenny-kim-b0b104234/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kyung-ryun-kenny-kim-b0b104234/)
 
 
 <!-- Add more icons using Shields or custom markdown -->
