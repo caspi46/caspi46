@@ -44,7 +44,6 @@
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kyung-ryun-kenny-kim-b0b104234/)
-[![Handshake](https://img.shields.io/badge/Handshake-Profile-blue?style=flat&logo=Handshake)](https://app.joinhandshake.com/peodile/kyung_kenny_kim)
 
 
 <!-- Add more icons using Shields or custom markdown -->
