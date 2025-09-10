@@ -1,5 +1,9 @@
 ## Hi there I'm Kenny Kim 👋
 
+## WIP
+### [Operating System in Rust (WIP)](https://github.com/caspi46/rust_os_study)
+### [Irvine Eats (WIP](https://github.com/caspi46/Eats_Irvine)
+
 ## 🚀 Projects
 
 ### [Operating System in Rust (WIP)](https://github.com/caspi46/rust_os_study)
