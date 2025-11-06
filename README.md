@@ -1,11 +1,13 @@
 ## Hi there I'm Kenny Kim 👋
 
 ## WIP
-### [Operating System in Rust (WIP)](https://github.com/caspi46/rust_os_study)
+### Capstone Project with Sound Ethics
+### IoT Project
+### Translation Tool (Transpiler) in Rust programming language
 
 ## 🚀 Projects
 
-### [Operating System in Rust (WIP)](https://github.com/caspi46/rust_os_study)
+### [Operating System in Rust](https://github.com/caspi46/rust_os_study)
 - Simple operating system in Rust
 - communicate the interrupts such as timer, keyboard in x86_64 environment
 - currently working on the memory management: page table
