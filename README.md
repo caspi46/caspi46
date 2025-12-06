@@ -7,6 +7,11 @@
 
 ## 🚀 Projects
 
+### [Sport Scout Analysis Generator]
+- Developed an AI system to generate sports scout analysis using multiple agents.
+- Designed the system pipeline with multiple agents and an MCP server.
+- Implemented MCP tools to establish the baseline functionality and structure.
+
 ### [Operating System in Rust](https://github.com/caspi46/rust_os_study)
 - Simple operating system in Rust
 - communicate the interrupts such as timer, keyboard in x86_64 environment
