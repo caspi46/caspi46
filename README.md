@@ -7,7 +7,7 @@
 
 ## 🚀 Projects
 
-### [Sport Scout Analysis Generator]
+### Sport Scout Analysis Generator
 - Developed an AI system to generate sports scout analysis using multiple agents.
 - Designed the system pipeline with multiple agents and an MCP server.
 - Implemented MCP tools to establish the baseline functionality and structure.
