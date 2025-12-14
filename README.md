@@ -11,7 +11,7 @@
 - Designed the system pipeline with multiple agents and an MCP server.
 - Implemented MCP tools to establish the baseline functionality and structure.
 
-### ZotMover (Self-balancing Robot) 
+### [ZotMover (Self-balancing Robot)](https://github.com/caspi46/ZotMover)
 - Implemented sensor-to-actuator control logic integrating gyroscope/accelerometer data with a motor driver for real-time balancing
 - Built a data pipeline to stream telemetry to Azure Cloud and visualize system performance metrics
 
