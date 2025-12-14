@@ -3,6 +3,7 @@
 ## WIP
 ### Capstone Project with Sound Ethics
 ### Translation Tool (Transpiler) in Rust programming language
+### [Music Generator Software](https://github.com/caspi46/musicGenAgents)
 
 ## 🚀 Projects
 
