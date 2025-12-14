@@ -11,6 +11,7 @@
 - Developed an AI system to generate sports scout analysis using multiple agents.
 - Designed the system pipeline with multiple agents and an MCP server.
 - Implemented MCP tools to establish the baseline functionality and structure.
+- Please let me know if you want to see this github repo. 
 
 ### [ZotMover (Self-balancing Robot)](https://github.com/caspi46/ZotMover)
 - Implemented sensor-to-actuator control logic integrating gyroscope/accelerometer data with a motor driver for real-time balancing
