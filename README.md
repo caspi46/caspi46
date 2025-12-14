@@ -2,7 +2,6 @@
 
 ## WIP
 ### Capstone Project with Sound Ethics
-### IoT Project
 ### Translation Tool (Transpiler) in Rust programming language
 
 ## 🚀 Projects
@@ -11,6 +10,10 @@
 - Developed an AI system to generate sports scout analysis using multiple agents.
 - Designed the system pipeline with multiple agents and an MCP server.
 - Implemented MCP tools to establish the baseline functionality and structure.
+
+### ZotMover (Self-balancing Robot) 
+- Implemented sensor-to-actuator control logic integrating gyroscope/accelerometer data with a motor driver for real-time balancing
+- Built a data pipeline to stream telemetry to Azure Cloud and visualize system performance metrics
 
 ### [Operating System in Rust](https://github.com/caspi46/rust_os_study)
 - Simple operating system in Rust
