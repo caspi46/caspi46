@@ -21,18 +21,6 @@
 - communicate the interrupts such as timer, keyboard in x86_64 environment
 - currently working on the memory management: page table
 
-### [ZotEXP](https://github.com/LotusBlssm/INF124Group26)
-- Game Review web app in Angular, Node.js, AWS
-- contributed to build the login/signup system, user preference
-- managed AWS dynamoDB to be able to CRUD the data (Game review, user info, and review info)
-
-### Password-Protected Locker System
-- Embedded locker system in ATMega32 chip and C language
-- implemented the communication between hardwares: keypad, LCD, and speaker
-- handled hardware based on user input and system status.
-- The hardawre gives the audio alerts (jingle) with message
-- not available to share this project code publicaly since this is class assignment 
-
 
 
 ## 🛠️ Skills & Tools
