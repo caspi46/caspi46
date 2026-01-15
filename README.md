@@ -3,6 +3,7 @@
 ## WIP
 ### Capstone Project with Sound Ethics
 ### Translation Tool (Transpiler) in Rust programming language
+### Git analyzer MCP server
 
 ## 🚀 Projects
 
@@ -12,11 +13,11 @@
 - Implemented MCP tools to establish the baseline functionality and structure.
 - Please let me know if you want to see this github repo. 
 
-### [ZotMover (Self-balancing Robot)](https://github.com/caspi46/ZotMover)
+### ZotMover (Self-balancing Robot)
 - Implemented sensor-to-actuator control logic integrating gyroscope/accelerometer data with a motor driver for real-time balancing
 - Built a data pipeline to stream telemetry to Azure Cloud and visualize system performance metrics
 
-### [Operating System in Rust](https://github.com/caspi46/rust_os_study)
+### Operating System in Rust
 - Simple operating system in Rust
 - communicate the interrupts such as timer, keyboard in x86_64 environment
 - currently working on the memory management: page table
@@ -34,6 +35,7 @@
 
 ### 🔁 Intermediate
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -41,6 +43,10 @@
 
 ### 🧩 Basic
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+
+### Database
+![AWS DynamoDB](https://img.shields.io/badge/-AWS%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Google Cloud SQL](https://img.shields.io/badge/-Google%20Cloud%20SQL-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 
 ## 📫 Connect with me
