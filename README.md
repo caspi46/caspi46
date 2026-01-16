@@ -1,7 +1,8 @@
 ## Hi there I'm Kenny Kim 👋
 
 ## WIP
-### Capstone Project with Sound Ethics
+### Capstone Project with Sound Ethics:
+- Current Stage: Authentication + Google Cloud (PostgreSQL) DONE
 ### Translation Tool (Transpiler) in Rust programming language
 ### Git analyzer MCP server
 
