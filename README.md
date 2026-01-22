@@ -2,9 +2,11 @@
 
 ## WIP
 ### Capstone Project with Sound Ethics:
-- Current Stage: Authentication + Google Cloud (PostgreSQL) DONE
+- Working closely with a great team and sponsor in an agile development environment!
+- Current Stage: Audio Upload feature with cloud bucket (DONE) 
 ### Translation Tool (Transpiler) in Rust programming language
-### Git analyzer MCP server
+### Git analyzer MCP server: 
+- Paused for winter quarter.
 
 ## 🚀 Projects
 
