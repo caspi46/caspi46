@@ -3,10 +3,14 @@
 ## WIP
 ### Capstone Project with Sound Ethics:
 - Working closely with a great team and sponsor in an agile development environment!
-- Current Stage: Audio Upload feature with cloud bucket (DONE) 
+- Current Stage: Bug fixing for Authentication and Audio Uploader 
 ### Translation Tool (Transpiler) in Rust programming language
 ### Git analyzer MCP server: 
 - Paused for winter quarter.
+
+## Studying
+### [Rust Atomics and Locks](https://marabos.nl/atomics/)
+- Current chapter: 2. Atomics
 
 ## 🚀 Projects
 
