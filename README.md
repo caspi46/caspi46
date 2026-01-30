@@ -5,6 +5,7 @@
 - Working closely with a great team and sponsor in an agile development environment!
 - Current Stage: Bug fixing for Authentication and Audio Uploader 
 ### Translation Tool (Transpiler) in Rust programming language
+### SSA-Compiler in Rust
 ### Git analyzer MCP server: 
 - Paused for winter quarter.
 
