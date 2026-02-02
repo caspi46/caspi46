@@ -3,7 +3,7 @@
 ## WIP
 ### Capstone Project with Sound Ethics:
 - Working closely with a great team and sponsor in an agile development environment!
-- Current Stage: Bug fixing for Authentication and Audio Uploader 
+- Current Stage: Data analytics & improving network design for audio uploader 
 ### Translation Tool (Transpiler) in Rust programming language
 ### SSA-Compiler in Rust
 ### Git analyzer MCP server: 
