@@ -1,11 +1,7 @@
 ## Hi there I'm Kenny Kim 👋
 
 ## WIP
-### Capstone Project with Sound Ethics:
-- Working closely with a great team and sponsor in an agile development environment!
-- Current Stage: Data analytics & improving network design for audio uploader 
 ### Translation Tool (Transpiler) in Rust programming language
-### SSA-Compiler in Rust
 ### Git analyzer MCP server: 
 - Paused for winter quarter.
 
@@ -14,6 +10,14 @@
 - Current chapter: 2. Atomics
 
 ## 🚀 Projects
+### SSA-Compiler in Rust
+- Designed and implemented SSA IR construction with automatic phi-function insertion at control flow join points
+- Built recursive descent parser handling full expression grammar, (user/pre-defined) function declarations, and nested control flow
+- Implemented common subexpression elimination and copy propagation optimizations using per-block instruction storage tables
+
+### Sound Ethics Capstone Project
+- Implemented secure authentication and (single/multiple) audio file upload workflows using RESTful APIs
+- Designed and deployed PostgreSQL schemas (users, audio files, folders) on Google Cloud SQL
 
 ### Sport Scout Analysis Generator
 - Developed an AI system to generate sports scout analysis using multiple agents.
