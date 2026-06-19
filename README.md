@@ -6,8 +6,10 @@
 - Paused for winter quarter.
 
 ## Studying
-### [Rust Atomics and Locks](https://marabos.nl/atomics/)
-- Current chapter: 2. Atomics
+### LLVM tutorial! (Kaleidoscope!!!)
+- so far so fun to recap my compiler knowledge. haha
+- current chapter: ch4. adding JIT and optimizer
+  
 
 ## 🚀 Projects
 ### SSA-Compiler in Rust
