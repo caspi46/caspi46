@@ -2,8 +2,6 @@
 
 ## WIP
 ### Translation Tool (Transpiler) in Rust programming language
-### Git analyzer MCP server: 
-- Paused for winter quarter.
 
 ## Studying
 ### LLVM tutorial! (Kaleidoscope!!!)
