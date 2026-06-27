@@ -6,7 +6,7 @@
 ## Studying
 ### LLVM tutorial! (Kaleidoscope!!!)
 - so far so fun to recap my compiler knowledge. haha
-- current chapter: ch4. adding JIT and optimizer
+- current chapter: ch8. Compiling to Object Code
   
 
 ## 🚀 Projects
