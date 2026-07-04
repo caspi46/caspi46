@@ -5,8 +5,7 @@
 
 ## Studying
 ### LLVM tutorial! (Kaleidoscope!!!)
-- so far so fun to recap my compiler knowledge. haha
-- current chapter: ch8. Compiling to Object Code
+- just completed! It was fun to learn new stuff and recap the compiler knowledge :) (WIP: build llvm-pass related project! let's see what I can do with llvm (play time..?! hehe)) 
   
 
 ## 🚀 Projects
