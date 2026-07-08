@@ -2,7 +2,11 @@
 
 ## WIP
 ### Translation Tool (Transpiler) in Rust programming language
-
+### My Own Address Sanitizer
+- Current stage:
+  - Finished the shadow memory and basic report functionalities.
+- ToDo:
+  - LLVM time! = implement the LLVM pass for detecting memory vulnerabilities 
 ## Studying
 ### LLVM tutorial! (Kaleidoscope!!!)
 - just completed! It was fun to learn new stuff and recap the compiler knowledge :) (WIP: build llvm-pass related project! let's see what I can do with llvm (play time..?! hehe)) 
