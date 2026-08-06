@@ -2,14 +2,12 @@
 
 ## WIP
 ### Translation Tool (Transpiler) in Rust programming language
-### My Own Address Sanitizer
-- Current stage:
-  - Finished the shadow memory and basic report functionalities.
-- ToDo:
-  - LLVM time! = implement the LLVM pass for detecting memory vulnerabilities 
+### masan – A custom implementation of AddressSanitizer built in Rust
+- designed to detect stack buffer overflows and use-after-scope memory bugs in C/C++ programs.
+- an LLVM pass that instruments IR with shadow memory checks and redzones, paired with a Rust runtime library that triggers error reports on invalid memory access.
+- Built as a deep-dive into memory vulnerabilities, LLVM IR, and modern C++; shadow memory and LLVM pass unit tests are complete, with real-world C/C++ source testing still in progress.
 ## Studying
-### LLVM tutorial! (Kaleidoscope!!!)
-- just completed! It was fun to learn new stuff and recap the compiler knowledge :) (WIP: build llvm-pass related project! let's see what I can do with llvm (play time..?! hehe)) 
+### Parallel Computing (CS 149 from Stanford online resource) 
   
 
 ## 🚀 Projects
