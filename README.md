@@ -2,7 +2,7 @@
 
 ## WIP
 ### Translation Tool (Transpiler) in Rust programming language
-### masan – A custom implementation of AddressSanitizer built in Rust
+### [masan](https://github.com/caspi46/masan) – A custom implementation of AddressSanitizer built in Rust
 - designed to detect stack buffer overflows and use-after-scope memory bugs in C/C++ programs.
 - an LLVM pass that instruments IR with shadow memory checks and redzones, paired with a Rust runtime library that triggers error reports on invalid memory access.
 - Built as a deep-dive into memory vulnerabilities, LLVM IR, and modern C++; shadow memory and LLVM pass unit tests are complete, with real-world C/C++ source testing still in progress.
