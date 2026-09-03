@@ -7,7 +7,7 @@
 - an LLVM pass that instruments IR with shadow memory checks and redzones, paired with a Rust runtime library that triggers error reports on invalid memory access.
 - Built as a deep-dive into memory vulnerabilities, LLVM IR, and modern C++; shadow memory and LLVM pass unit tests are complete, with real-world C/C++ source testing still in progress.
 ## Studying
-### Parallel Computing (CS 149 from Stanford online resource) 
+### MLIR toy tutorial
   
 
 ## 🚀 Projects
